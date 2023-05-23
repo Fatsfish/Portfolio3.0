@@ -42,10 +42,10 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <img src={logo} alt='logo' className='w-9 h-9 object-contain' />
+          <img src='/favicon.png' alt='logo' className='w-9 h-9 object-contain' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
-            Xóm Art &nbsp;
-            <span className='sm:block hidden'> | Art Gallery by Nguyễn Thành Nam</span>
+            Fatsfish &nbsp;
+            <span className='sm:block hidden'> | 3D Portfolio</span>
           </p>
         </Link>
 
