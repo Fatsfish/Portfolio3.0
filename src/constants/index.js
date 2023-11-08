@@ -25,6 +25,7 @@ import {
   threejs,
   fsoft,
   skillcetera,
+  VNA
 } from "../assets";
 
 export const navLinks = [
@@ -166,12 +167,24 @@ const experiences = [
       "Evaluate the development and qualities of the club and its members.",
     ],
   },
+  {
+    title: "Flight Attendant Trainee",
+    company_name: "Vietnam Airlines",
+    icon: VNA,
+    iconBg: "#E6DEDD",
+    date: "Sep 2023 - Present",
+    points: [
+      "Aviation Training including Safety, Security, and Service for 4 months",
+      "A321 Flight attendant trainee",
+      "Domestic routes",
+    ],
+  },
 ];
 
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but Fatsfish proved me wrong.",
     name: "Sara Lee",
     designation: "CFO",
     company: "Acme Co",
@@ -179,7 +192,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "I've never met a web developer who truly cares about their clients' success like Fatsfish does.",
     name: "Chris Brown",
     designation: "COO",
     company: "DEF Corp",
@@ -187,7 +200,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Fatsfish optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",

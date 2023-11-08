@@ -27,12 +27,14 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import fsoft from "./company/FSoft.png";
 import skillcetera from "./company/skillcetera.png";
+import VNA from "./company/VNA.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
+  VNA,
   skillcetera,
   fsoft,
   logo,
