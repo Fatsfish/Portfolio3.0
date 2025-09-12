@@ -172,11 +172,34 @@ const experiences = [
     company_name: "Vietnam Airlines",
     icon: VNA,
     iconBg: "#E6DEDD",
-    date: "Sep 2023 - Present",
+    date: "Sep 2023 - May 2024",
     points: [
       "Aviation Training including Safety, Security, and Service for 4 months",
-      "A321 Flight attendant trainee",
+      "A321 Flight attendant trainee, Top scorer in class, Excelled in Service and Safety subjects",
       "Domestic routes",
+    ],
+  },
+  {
+    title: "Flight Attendant",
+    company_name: "Vietnam Airlines",
+    icon: VNA,
+    iconBg: "#E6DEDD",
+    date: "May 2024 - Dec 2024",
+    points: [
+      "Giving the best experience to the customers onboard, ensuring their safety and security",
+      "A321 Flight attendant, B787  Flight attendant trainee, A350 Flight attendant trainee",
+      "Domestic routes and turnaround International routes",
+    ],
+  },{
+    title: "Flight Attendant",
+    company_name: "Vietnam Airlines",
+    icon: VNA,
+    iconBg: "#E6DEDD",
+    date: "Jan 2025 - Present",
+    points: [
+      "Giving the best experience to the customers onboard, ensuring their safety and security",
+      "A321, B787, A350 Flight attendant, Best flight attendant of the month (June 2025)",
+      "Domestic routes and International routes",
     ],
   },
 ];
